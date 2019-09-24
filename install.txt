@@ -1,4 +1,4 @@
-/usr/local/lib/python3.6/dist-packages/dtable-0.0.3-py3.6.egg
+/usr/local/lib/python3.6/dist-packages/dtable-0.0.4-py3.6.egg
 /usr/local/bin/dtable
 /usr/local/bin/f2py
 /usr/local/bin/f2py3
