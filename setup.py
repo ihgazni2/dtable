@@ -11,7 +11,7 @@ requirements = [
 
 setup(
       name="dtable",
-      version = "0.0.4", #@version@#
+      version = "0.0.5", #@version@#
       description="handle,.in progressing..,APIs",
       author="ihgazni2",
       url="https://github.com/ihgazni2/dtable",
@@ -43,6 +43,7 @@ setup(
 
 # python3 setup.py bdist --formats=tar
 # python3 setup.py sdist
+
 
 
 

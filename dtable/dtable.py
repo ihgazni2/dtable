@@ -248,7 +248,7 @@ def colarg2cvl(colarg):
     if(dldl.is_dlist(colarg)):
         cvl = col2cvl(colarg)
     else:
-        cvl = col
+        cvl = colarg
     return(cvl)
 
 def colarg2col(colarg,ckey):
